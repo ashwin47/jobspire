@@ -1,0 +1,4 @@
+def method(name)
+	x=rand(6..15)
+	name + x.to_s
+end
